@@ -19,7 +19,7 @@ Mis habilidades incluyen:
 🔧 Control de versiones con Git/GitHub/GitLab.  
 Me encanta transformar ideas en productos funcionales, optimizando el rendimiento y la experiencia de usuario. Si buscas un desarrollador comprometido, creativo y con atención al detalle, ¡trabajemos juntos!
 
-"Soluciones reales para problemas reales."
+"Código limpio, soluciones eficientes."
 </p>
 
 <h2>Mis conocimientos 👨🏻‍💻</h2>
