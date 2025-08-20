@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.ivancoder.com"><img src="./imgs/welcome.png" alt="IvanCoder" width="60%"></a>
+  <a href="http://www.ivancoder.com"><img src="./imgs/welcome.png" alt="IvanCoder" width="100%"></a>
 </h1>
 
 <h2>Sobre mí 😃</h2>
@@ -31,7 +31,6 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,firebase" />
 </a>
-
 </td>
 <td align="center">
     <h3>BackEnd</h3>
@@ -40,7 +39,7 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
 </a>
 </td> 
 </tr>
-<tr>
+<tr border="none">
 <td align="center">
     <h3>FrontEnd</h3>
 <a href="https://skillicons.dev">
