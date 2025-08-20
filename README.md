@@ -26,31 +26,31 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
 
 <table align="center" >
 <tr border="none">
-  <td align="center">
-    <h3>Móviles</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,firebase" />
-</a>
-</td>
-<td align="center">
-    <h3>BackEnd</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,sqlite" />
-</a>
-</td> 
+    <td align="center">
+        <h3>Móviles</h3>
+        <a href="javascript:void(0)">
+            <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,firebase" />
+        </a>
+    </td>
+    <td   td align="center">
+        <h3>BackEnd</h3>
+        <a href="javascript:void(0)">
+            <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,sqlite" />
+        </a>
+    </td> 
 </tr>
 <tr border="none">
-<td align="center">
-    <h3>FrontEnd</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</a>
-<td align="center">
-<h3>Otros conocimientos</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,linux,vscode,git,github" />
-</a>
-</td>
+    <td align="center">
+        <h3>FrontEnd</h3>
+        <a href="javascript:void(0)">
+            <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+        </a>
+    <td align="center">
+        <h3>Otros conocimientos</h3>
+        <a href="javascript:void(0)">
+            <img src="https://skillicons.dev/icons?i=ubuntu,linux,vscode,git,github" />
+        </a>
+    </td>
 </tr>
 </table>
 <p align="center"><img src="./imgs/dev-anim02.gif" alt="adam-pw" width=400 /></p>
