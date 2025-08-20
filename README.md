@@ -20,32 +20,41 @@ Mis habilidades incluyen:
 Me encanta transformar ideas en productos funcionales, optimizando el rendimiento y la experiencia de usuario. Si buscas un desarrollador comprometido, creativo y con atención al detalle, ¡trabajemos juntos!
 
 "Soluciones reales para problemas reales."
-<br><br><br><br><br><br><br><br>
 </p>
 
 <h2>Mis conocimientos 👨🏻‍💻</h2>
-<p><img align="right" src="./imgs/dev-anim02.gif" alt="adam-pw" width=600 /></p>
-<h3>Móviles</h3>
+
+<table align="center" >
+<tr border="none">
+  <td align="center">
+    <h3>Móviles</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,firebase" />
 </a>
 
-<h3>BackEnd</h3>
+</td>
+<td align="center">
+    <h3>BackEnd</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,sqlite" />
 </a>
-
-<h3>FrontEnd</h3>
+</td> 
+</tr>
+<tr>
+<td align="center">
+    <h3>FrontEnd</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </a>
-
+<td align="center">
 <h3>Otros conocimientos</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,linux,vscode,git,github" />
 </a>
-<br>
-<br>
+</td>
+</tr>
+</table>
+<p align="center"><img src="./imgs/dev-anim02.gif" alt="adam-pw" width=400 /></p>
 
 <h2>Algunos proyectos 🛠</h2>
 
