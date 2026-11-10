@@ -61,7 +61,7 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
 - 🧪Buenas prácticas de testing en Android y Laravel
 <p align="center"><img src="./imgs/dev-anim02.gif" alt="adam-pw" width=400 /></p>
 
-<h2>Algunos proyectos 🛠</h2>
+<h2>Mis proyectos 🛠</h2>
 <table align="left" >
 <tr border="none">
   <td align="center">
@@ -91,6 +91,61 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
 <br><br><br>
 <br><br><br>
 <br><br>
+
+<h3 align="center">Otros proyectos de aprendizaje 📚</h3>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Repositorio</th>
+      <th align="center">Tecnología</th>
+      <th align="left">Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/ivxn31/CursoSwiftUI-29-08-2019" target="_blank">
+          📱 Curso de SwiftUI
+        </a>
+        <br>
+        <small>29-08-2019</small>
+      </td>
+      <td align="center" valign="top">Swift<br>SwiftUI<br>iOS</td>
+      <td valign="top">Aplicación móvil con información sobre algunos de los corredores más famosos de la Fórmula 1.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/ivxn31/MessagingAppOnlyDesign" target="_blank">
+          💬 App de mensajería
+        </a>
+        <br>
+        <small>Solo diseño</small>
+      </td>
+      <td align="center" valign="top">Swift<br>SwiftUI<br>iOS</td>
+      <td valign="top">Diseño de una interfaz de chat con una implementación sencilla de vistas y componentes en SwiftUI.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/ivxn31/MVVMShoppingList" target="_blank">
+          🛒 Lista de compras
+        </a>
+        <br>
+        <small>Con BD en Room</small>
+      </td>
+      <td align="center" valign="top">Kotlin<br>Material Design<br>Android</td>
+      <td valign="top">Aplicación móvil para realizar una lista de compras básica.</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/ivxn31/SpotifyCloneIOS" target="_blank">
+          🎵 Spotify Clone
+        </a>
+      </td>
+      <td align="center" valign="top">SwiftUI<br>iOS</td>
+      <td valign="top">Aplicación móvil inspirada en Spotify.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Otros enlaces que te podrían interesar 🔗</h2>
 <p>
