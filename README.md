@@ -163,9 +163,9 @@ Me encanta transformar ideas en productos funcionales, optimizando el rendimient
   <a href="https://www.linkedin.com/in/ivan-tecp-martinez/" target="_blank" style="margin-right:12px">
     <img width="50" height="50" src="./imgs/linkedin.png">
   </a>
-  <a href="mailto:contacto@ivancoder.com" style="margin-right:12px">
+  <!-- <a href="mailto:contacto@ivancoder.com" style="margin-right:12px">
     <img width="50" height="50" src="./imgs/email.webp">
-  </a>
+  </a> -->
   <a href="https://wa.me/522213541188?text=¡Hola!%20Quisiera%20recibir%20una%20cotización%20personalizada.%20¿Podrías%20ayudarme?%20😊" target="_blank" style="margin-right:12px">
     <img width="50" height="50" src="./imgs/whatsapp.png">
   </a>
